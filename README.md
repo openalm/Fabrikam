@@ -1,2 +1,3 @@
-# fabrikam 
-2:57 PM 6/22/2015
+# Fabrikam 
+
+This is Fabrikam app with database and test cases used to demonstrate VSO Build/Release services.
