@@ -1,0 +1,14 @@
+C:\Users\shashban\Source\Workspaces\Workspace2\fabrikam\FabrikamFiber.CallCenter\FabrikamFiber.Web.PureSeleniumTests\bin\Debug\chromedriver.exe
+C:\Users\shashban\Source\Workspaces\Workspace2\fabrikam\FabrikamFiber.CallCenter\FabrikamFiber.Web.PureSeleniumTests\bin\Debug\IEDriverServer.exe
+C:\Users\shashban\Source\Workspaces\Workspace2\fabrikam\FabrikamFiber.CallCenter\FabrikamFiber.Web.PureSeleniumTests\bin\Debug\runsettings.runsettings
+C:\Users\shashban\Source\Workspaces\Workspace2\fabrikam\FabrikamFiber.CallCenter\FabrikamFiber.Web.PureSeleniumTests\bin\Debug\FabrikamFiber.Web.PureSeleniumTests.dll
+C:\Users\shashban\Source\Workspaces\Workspace2\fabrikam\FabrikamFiber.CallCenter\FabrikamFiber.Web.PureSeleniumTests\bin\Debug\FabrikamFiber.Web.PureSeleniumTests.pdb
+C:\Users\shashban\Source\Workspaces\Workspace2\fabrikam\FabrikamFiber.CallCenter\FabrikamFiber.Web.PureSeleniumTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\shashban\Source\Workspaces\Workspace2\fabrikam\FabrikamFiber.CallCenter\FabrikamFiber.Web.PureSeleniumTests\bin\Debug\nunit.framework.dll
+C:\Users\shashban\Source\Workspaces\Workspace2\fabrikam\FabrikamFiber.CallCenter\FabrikamFiber.Web.PureSeleniumTests\bin\Debug\WebDriver.dll
+C:\Users\shashban\Source\Workspaces\Workspace2\fabrikam\FabrikamFiber.CallCenter\FabrikamFiber.Web.PureSeleniumTests\bin\Debug\nunit.framework.xml
+C:\Users\shashban\Source\Workspaces\Workspace2\fabrikam\FabrikamFiber.CallCenter\FabrikamFiber.Web.PureSeleniumTests\bin\Debug\WebDriver.xml
+C:\Users\shashban\Source\Workspaces\Workspace2\fabrikam\FabrikamFiber.CallCenter\FabrikamFiber.Web.PureSeleniumTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\shashban\Source\Workspaces\Workspace2\fabrikam\FabrikamFiber.CallCenter\FabrikamFiber.Web.PureSeleniumTests\obj\Debug\FabrikamFiber.Web.PureSeleniumTests.csprojResolveAssemblyReference.cache
+C:\Users\shashban\Source\Workspaces\Workspace2\fabrikam\FabrikamFiber.CallCenter\FabrikamFiber.Web.PureSeleniumTests\obj\Debug\FabrikamFiber.Web.PureSeleniumTests.dll
+C:\Users\shashban\Source\Workspaces\Workspace2\fabrikam\FabrikamFiber.CallCenter\FabrikamFiber.Web.PureSeleniumTests\obj\Debug\FabrikamFiber.Web.PureSeleniumTests.pdb
